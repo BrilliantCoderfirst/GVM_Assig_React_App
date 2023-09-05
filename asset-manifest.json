@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/GVM_Assig_React_App/static/css/main.e5902955.css",
+    "main.js": "/GVM_Assig_React_App/static/js/main.a552da5c.js",
+    "static/media/formImage.png": "/GVM_Assig_React_App/static/media/formImage.2da3d69cf31e6f3bf09e.png",
+    "index.html": "/GVM_Assig_React_App/index.html",
+    "main.e5902955.css.map": "/GVM_Assig_React_App/static/css/main.e5902955.css.map",
+    "main.a552da5c.js.map": "/GVM_Assig_React_App/static/js/main.a552da5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5902955.css",
+    "static/js/main.a552da5c.js"
+  ]
+}
